@@ -1,5 +1,6 @@
 # insurance_demo
-practice project for insurance domain
+Practice project for Insurance Domain
+
 ![policy er](https://github.com/anandbhunia/insurance_demo/assets/26487497/2df79b64-90ba-449a-a3a1-7424c02946ec)
 
 Problem statements
